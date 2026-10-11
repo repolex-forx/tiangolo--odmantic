@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/odmantic/commit/a99a2588cde575279ca8955c6a4765425ec3b15d",
       "git:hexsha": "a99a2588cde575279ca8955c6a4765425ec3b15d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/odmantic/commit/3f38183a5b8a8ecf77a3c9d535c56416d7e024fc",
