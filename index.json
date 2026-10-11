@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "odmantic",
+  "versions": [
+    {
+      "commit": "a99a2588cde575279ca8955c6a4765425ec3b15d",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:58:40.044366+00:00"
+    }
+  ]
+}
